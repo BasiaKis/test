@@ -1,3 +1,3 @@
 # test
-testowo
-jak to wyglada po edycji
+
+jak to wyglada po edycji #2
